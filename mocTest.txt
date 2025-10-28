@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Next js is the  best 
+=======
+react is best v15
+>>>>>>> db495fd (gg1)
